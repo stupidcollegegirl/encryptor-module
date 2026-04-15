@@ -1,4 +1,4 @@
-Markdown# 🔐 Python Encrypt Tool
+# 🔐 Python Encrypt Tool
 
 **A clean, secure and user-friendly TUI (Text User Interface) utility for encrypting and decrypting files using symmetric encryption.**
 
