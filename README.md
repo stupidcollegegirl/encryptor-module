@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Fernet](https://img.shields.io/badge/Encryption-Fernet-2ECC71?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/License-IDk-yellow?style=for-the-badge)
 
 ---
 
