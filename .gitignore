@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keys and sensitive files
+secret.key
+*.encrypted
+*.log
+
+# PyCharm / VSCode
+.idea/
+.vscode/
