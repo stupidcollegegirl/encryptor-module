@@ -23,12 +23,14 @@
 
 ### Installation
 
-```bash
+```
 git clone https://github.com/stupidcollegegirl/encryptor-module.git
 cd python-encrypt-tool
 pip install -r requirements.txt
+```
 
-Usage
+### Usage
+```
 python main.py
 Then choose from the menu:
 
@@ -37,6 +39,7 @@ Then choose from the menu:
 3 — Decrypt a file
 4 — Encrypt text
 0 — Exit
+```
 
 🔑 Important Security Notes
 
@@ -47,13 +50,14 @@ Lost key = lost data permanently.
 
 🛠️ Technologies Used
 
-Python 3.10+
+Python
 cryptography — Fernet symmetric encryption
 rich — Beautiful terminal interface
 pathlib — Modern file path handling
 
 
 📁 Project Structure
+```
 textpython-encrypt-tool/
 ├── encryptor/          # Main
 │   ├── __init__.py
